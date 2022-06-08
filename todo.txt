@@ -1,0 +1,11 @@
+normal communication server-client
+
+client attacking syn-flood
+
+detect syn-flood attack
+
+move port with client
+
+add attacker to black-list
+
+once server up again check for blacklisted IP/port and block them
